@@ -8,6 +8,7 @@ body {
     background-image: url("../images/dust_scratches.png");
     background-color: #fff;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    line-height: 25px;
 }
 
 .container {
@@ -29,6 +30,7 @@ h2 {
     padding-bottom: 30px;
     font-size: 28px;
 }
+
 
 
 /*  Header */
@@ -54,7 +56,7 @@ h2 {
     height: 80px;
     float: left;
     text-align: center;
-    padding: 20px;
+    padding: 25px;
     margin-top: 0;
     border-bottom: 2px solid #cccccc;
 }
@@ -96,7 +98,8 @@ nav a:first-child {
 }
 
 .image {
-
+    float: left;
+    padding-right: 20px;
 }
 
 .projects {
@@ -110,4 +113,5 @@ footer {
     margin: 0;
     padding: auto;
     border-top: 8px solid #4aaaa5;
+    text-align: center;
 }
