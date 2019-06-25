@@ -43,6 +43,7 @@ h2 {
     height: 80px;
     width: 100%;
     position: fixed;
+    z-index: 1;
 }
 
 #navigation .container {
@@ -106,6 +107,7 @@ nav a:first-child {
     height: 200px;
 }
 
+/* Portfolio */
 .projects {
 
 }
@@ -117,9 +119,18 @@ nav a:first-child {
 }
 
 .right {
-    float: right;
+    float: left;
     /* background-color:blue; */
 
+}
+
+.left, .right {
+    padding: 20px 0 20px 20px;
+    text-align: center;
+}
+
+.projects img {
+    opacity: .7;
 }
 
 /* Footer */
