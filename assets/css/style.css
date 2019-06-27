@@ -202,6 +202,7 @@ textarea {
 textarea {
     height: 150px;
     color: #777777;
+    resize: none;
 }
 
 form {
