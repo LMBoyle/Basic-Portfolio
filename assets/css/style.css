@@ -130,7 +130,7 @@ nav a:first-child {
 
 .left, .right {
     float: left;
-    margin: 40px 40px 20px 0;
+    margin: 40px 35px 20px 0;
     position: relative;
     height: 723px;
     width: 268px;
@@ -169,12 +169,12 @@ nav a:first-child {
 
 .triva {
     position: absolute;
-    top: 241px;
+    top: 251px;
 }
 
 .rock {
     position: absolute;
-    top: 482px;
+    top: 502px;
 }
 
 /*  Projects Right */
@@ -185,7 +185,7 @@ nav a:first-child {
 
 .widget {
     position: absolute;
-    top: 241px;
+    top: 251px;
 }
 
 
