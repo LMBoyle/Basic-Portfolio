@@ -119,47 +119,73 @@ nav a:first-child {
 }
 
 /* Portfolio */
-.projects {
-    position: absolute;
-
-}
-
 .left {
-    float: left;
-    background-color: red;
-    
-
+    /* background-color: red; */
 }
 
 .right {
-    float: left;
-    background-color:blue;
-
+    /* background-color:blue; */
 }
 
 .left, .right {
-    padding: 20px 0 20px 20px;
-    margin-bottom: 20px;
+    float: left;
+    margin: 40px 40px 20px 0;
     position: relative;
+    height: 600px;
+    width: 293px;
+}
+
+.left .image, .right .image {
+    float: none;
+    padding: 0;
+    height: 219.75px;
+    width: 293px;
+}
+
+.left img, .right img {
+    opacity: .8;
     
 }
 
-.projects img {
-    opacity: .1;
-    
-}
-
-.projects h3 {
+.left h3, .right h3 {
     background-color: #4aaaa5;
-    height: 70px;
-    width: 200px;
-    color: #777777;
+    height: 60px;
+    width: 100%;
+    color: #fff;
     text-align: center;
-    padding: 15px;
-    /* position: absolute; */
-    /* top: 30px; */
-    /* bottom: 20px; */
+    padding-top: 15px;
+    position: absolute;
+    bottom: 10px;
 }
+
+/*  Projects Left */
+.hangman {
+    position: absolute;
+    top: 0;
+}
+
+.triva {
+    position: absolute;
+    top: 220px;
+}
+
+.rock {
+    position: absolute;
+    top: 440px;
+}
+
+/*  Projects Right */
+.rpg {
+    position: absolute;
+    top: 0;
+}
+
+.widget {
+    position: absolute;
+    top: 220px;
+}
+
+
 
 /*  Contact */
 input[type=text],
