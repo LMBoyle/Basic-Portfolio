@@ -221,6 +221,9 @@ input[type=submit] {
 input[type=submit]:hover {
     background-color: #3C8883;
 }
+ label {
+     font-size: 17px;
+ }
 
 /* Footer */
 footer {
