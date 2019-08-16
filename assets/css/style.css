@@ -121,13 +121,13 @@ nav a:first-child {
 }
 
 /* Portfolio */
-.left {
+/* .left { */
     /* background-color: red; */
-}
+/* } */
 
-.right {
+/* .right { */
     /* background-color:blue; */
-}
+/* } */
 
 .left, .right {
     float: left;
