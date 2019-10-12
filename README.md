@@ -6,7 +6,7 @@ Basic portfolio with three pages
 * CSS
 
 ## Demo
-### Index/Home Page
+### Index/Home/About Page
 ![Demo Index Img](assets/images/demoSSIndex.png)
 
 ### Portfolio Page
