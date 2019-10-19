@@ -5,6 +5,9 @@ Basic portfolio with three pages
 * HTML
 * CSS
 
+## What It Teaches
+Using HTML and CSS to make a basic portfolio with three separate pages
+
 ## Demo
 ### Index/Home/About Page
 ![Demo Index Img](assets/images/demoSSIndex.png)
