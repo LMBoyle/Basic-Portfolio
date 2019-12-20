@@ -1,12 +1,11 @@
 ## Basic Portfolio
-Basic portfolio with three pages
+Basic front-end portfolio with three pages
+
+[Deployed Link](https://lmboyle.github.io/basicPortfolio/)
 
 ## Languages/Technologies 
 * HTML
 * CSS
-
-## What It Teaches
-Using HTML and CSS to make a basic portfolio with three separate pages
 
 ## Demo
 ### Index/Home/About Page
@@ -20,6 +19,4 @@ Using HTML and CSS to make a basic portfolio with three separate pages
 
 
 ## Links
-[Deployed Link](https://lmboyle.github.io/Basic-Portfolio/)
-
 [Portfolio](https://lmboyle.github.io/)
