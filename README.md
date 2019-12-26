@@ -1,13 +1,13 @@
-## Basic Portfolio
+## [Basic Portfolio](https://lmboyle.github.io/basicPortfolio/)
+
 Basic front-end portfolio with three pages
 
-[Deployed Link](https://lmboyle.github.io/basicPortfolio/)
-
-## Languages/Technologies 
+## Built With...
 * HTML
 * CSS
 
 ## Demo
+
 ### Index/Home/About Page
 ![Demo Index Img](assets/images/demoSSIndex.png)
 
