@@ -17,6 +17,4 @@ Basic front-end portfolio with three pages
 ### Contact Page
 ![Demo Contact Img](assets/images/demoSSContact.png)
 
-
-## Links
-[Portfolio](https://lmboyle.github.io/)
+&copy; 2019 [Luke Boyle](https://lmboyle.github.io/)
